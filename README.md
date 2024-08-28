@@ -1,1 +1,1 @@
-# madhav1991-UI-React-Practice
+# UI-React-Practice
