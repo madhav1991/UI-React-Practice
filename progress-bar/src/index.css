@@ -27,8 +27,7 @@ body {
 
 .filled {
   background-color: deepskyblue;
-  display: flex;
-  justify-content: center;
+  text-align: center;
   height: 100%;
   overflow: hidden;
 }
