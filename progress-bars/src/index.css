@@ -11,3 +11,29 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.progress-bar {
+  border: 1px solid lightgrey;
+  height: 10px; 
+  margin-top: 3px;
+  width: 100%;
+}
+
+.filled{
+  background-color: lightblue;
+  height: 100%;
+  /* Using css transition approach
+  /* transition: width 2s ease-in-out; */
+  width:0
+}
+
+/* Using css transtition way
+/* .filled.animate {
+  width: 100%;
+} */
+
+.filled{
+  background-color: lightblue;
+  height: 100%;
+} 
+
